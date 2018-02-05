@@ -17,6 +17,7 @@ class App extends Component {
           <div id='beardly'></div>
           <div id='hatly'></div>
           <div id='buildly'></div>
+          <div id='dudely'></div>
         </ul>
       </div>
     );
